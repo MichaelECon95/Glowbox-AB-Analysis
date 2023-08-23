@@ -7,10 +7,7 @@ from scipy.stats import norm
 from scipy.stats import ttest_ind
 
 # Loading the CSV files
-users_df = pd.read_csv('/Volumes/MichaelEric/Data Analitics/Portfolio/Working/GlowboxPT/users.csv')
-groups_df = pd.read_csv('/Volumes/MichaelEric/Data Analitics/Portfolio/Working/GlowboxPT/groups.csv')
-activity_df = pd.read_csv('/Volumes/MichaelEric/Data Analitics/Portfolio/Working/GlowboxPT/activity.csv')
-print("Data loaded successfully!")
+
 
 # Merging the users and groups dataframes on user ID
 merged_df = users_df.merge(groups_df, left_on='id', right_on='uid', how='left')
