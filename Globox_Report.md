@@ -109,5 +109,5 @@ A significant p-value and a confidence interval lying entirely above zero valida
     - A/B Test Group Assignment: `groups.csv`
     - Purchase Activity: `activity.csv`
 - **Visualization**: Visual aids like bar graphs, distribution plots, and segmented analyses were pivotal in the analytical process.
- 
-
+    - Visualization Guide: Tableau ( https://public.tableau.com/views/GloBoxABTestAnalysisforFoodDrinkBanner/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link )
+    -	Additional Resources: Gupta, Shivam Sen. “A/B Testing in Excel: What Should You Use?” Scaler Topics, 22 May 2023, www.scaler.com/topics/statistical-significance-calculator-excel/. Accessed 16 Aug. 2023.
