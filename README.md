@@ -4,9 +4,9 @@
 
 The project features three stages, each being one sprint:
 
-1. Extract the user-level aggregated dataset using SQL.
-2. Analyze the A/B test results using statistical methods in spreadsheets ( Excel ) and visualizations in Tableau.
-3. Create a written report of the A/B test results and optionally record a video presentation
+1. Extract the user-level aggregated dataset.
+2. Analyze the A/B test results using statistical methods and visualizations.
+3. Create a written report of the A/B test results.
 
 GloBox is an online marketplace that specializes in sourcing unique and high-quality products from around the world.
 
