@@ -1,6 +1,6 @@
 # GloBox A/B Test Analysis
 
-**Author:** Eric Contreras, Data Analyst  
+**Author:** M Contreras, Data Analyst  
 **Date:** August 15, 2023
 
 ---
